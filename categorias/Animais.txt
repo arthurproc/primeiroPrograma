@@ -1,0 +1,17 @@
+16
+macaco
+cavalo
+zebra
+ganso
+cachorro
+gato
+burro
+esquilo
+leao
+onca
+veado
+alce
+urso
+chipanze
+gorila
+coelho

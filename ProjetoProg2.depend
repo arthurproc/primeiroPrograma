@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1432588484 source:g:\arthur programacao\projeto programacao 2\projetoprog2\main.cpp
+	<iostream>
+	"palavras.h"
+	<mmsystem.h>
+	<windows.h>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1431385472 g:\arthur programacao\projeto programacao 2\projetoprog2\palavras.h
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cstring>
+
+1432592894 source:i:\projetoprog2\main.cpp
+	<iostream>
+	"palavras.h"
+	<mmsystem.h>
+	<windows.h>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1431385472 i:\projetoprog2\palavras.h
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cstring>
+
+1432602718 source:c:\users\arthur\downloads\projetoprog\main.cpp
+	<iostream>
+	"palavras.h"
+	<mmsystem.h>
+	<windows.h>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1431385472 c:\users\arthur\downloads\projetoprog\palavras.h
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cstring>
+
+1565376419 source:c:\users\avpro\downloads\projetoprog2\projetoprog2\main.cpp
+	<iostream>
+	"palavras.h"
+	<mmsystem.h>
+	<windows.h>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1431385472 c:\users\avpro\downloads\projetoprog2\projetoprog2\palavras.h
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cstring>
+
+1565376578 source:c:\users\avpro\downloads\projetoprog\projetoprog2\main.cpp
+	<iostream>
+	"palavras.h"
+	<mmsystem.h>
+	<windows.h>
+	<cstring>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1431385472 c:\users\avpro\downloads\projetoprog\projetoprog2\palavras.h
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cstring>
+
